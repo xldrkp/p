@@ -2,82 +2,87 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
-    <loc>https://semanticclimate.netlify.app/p/past-events/piaget-hackathon/</loc>
+    <loc>https://semanticclimate.netlify.app/p/en/past-events/piaget-hackathon/</loc>
     <lastmod>2022-06-17</lastmod>
   </url>
   
   <url>
-    <loc>https://semanticclimate.netlify.app/p/past-events/climate-knowledge-hunt-sep/</loc>
+    <loc>https://semanticclimate.netlify.app/p/en/past-events/climate-knowledge-hunt-sep/</loc>
     <lastmod>2022-09-24</lastmod>
   </url>
   
   <url>
-    <loc>https://semanticclimate.netlify.app/p/posts/climate-knowledge-hunt-hackthon/</loc>
+    <loc>https://semanticclimate.netlify.app/p/en/posts/climate-knowledge-hunt-hackthon/</loc>
     <lastmod>2022-09-24</lastmod>
   </url>
   
   <url>
-    <loc>https://semanticclimate.netlify.app/p/posts/oa_week_2022/</loc>
+    <loc>https://semanticclimate.netlify.app/p/en/posts/oa_week_2022/</loc>
     <lastmod>2022-10-08</lastmod>
   </url>
   
   <url>
-    <loc>https://semanticclimate.netlify.app/p/events/coblet-2022/</loc>
+    <loc>https://semanticclimate.netlify.app/p/en/events/coblet-2022/</loc>
     <lastmod>2022-10-13</lastmod>
   </url>
   
   <url>
-    <loc>https://semanticclimate.netlify.app/p/events/</loc>
+    <loc>https://semanticclimate.netlify.app/p/de/</loc>
     <lastmod>2022-10-16</lastmod>
   </url>
   
   <url>
-    <loc>https://semanticclimate.netlify.app/p/</loc>
+    <loc>https://semanticclimate.netlify.app/p/en/events/</loc>
     <lastmod>2022-10-16</lastmod>
   </url>
   
   <url>
-    <loc>https://semanticclimate.netlify.app/p/pages/about/</loc>
+    <loc>https://semanticclimate.netlify.app/p/en/</loc>
     <lastmod>2022-10-16</lastmod>
   </url>
   
   <url>
-    <loc>https://semanticclimate.netlify.app/p/pages/faq/</loc>
+    <loc>https://semanticclimate.netlify.app/p/en/pages/about/</loc>
     <lastmod>2022-10-16</lastmod>
   </url>
   
   <url>
-    <loc>https://semanticclimate.netlify.app/p/pages/programme/</loc>
+    <loc>https://semanticclimate.netlify.app/p/en/pages/faq/</loc>
     <lastmod>2022-10-16</lastmod>
   </url>
   
   <url>
-    <loc>https://semanticclimate.netlify.app/p/pages/team/</loc>
+    <loc>https://semanticclimate.netlify.app/p/en/pages/programme/</loc>
     <lastmod>2022-10-16</lastmod>
   </url>
   
   <url>
-    <loc>https://semanticclimate.netlify.app/p/tags/event/</loc>
+    <loc>https://semanticclimate.netlify.app/p/en/pages/team/</loc>
     <lastmod>2022-10-16</lastmod>
   </url>
   
   <url>
-    <loc>https://semanticclimate.netlify.app/p/tags/past/</loc>
+    <loc>https://semanticclimate.netlify.app/p/en/tags/event/</loc>
     <lastmod>2022-10-16</lastmod>
   </url>
   
   <url>
-    <loc>https://semanticclimate.netlify.app/p/tags/semanticclimate/</loc>
+    <loc>https://semanticclimate.netlify.app/p/en/tags/past/</loc>
     <lastmod>2022-10-16</lastmod>
   </url>
   
   <url>
-    <loc>https://semanticclimate.netlify.app/p/tags/outreach/</loc>
+    <loc>https://semanticclimate.netlify.app/p/en/tags/semanticclimate/</loc>
     <lastmod>2022-10-16</lastmod>
   </url>
   
   <url>
-    <loc>https://semanticclimate.netlify.app/p/tags/notebook/</loc>
+    <loc>https://semanticclimate.netlify.app/p/en/tags/outreach/</loc>
+    <lastmod>2022-10-16</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://semanticclimate.netlify.app/p/en/tags/notebook/</loc>
     <lastmod>2022-10-16</lastmod>
   </url>
   
@@ -87,17 +92,22 @@
   </url>
   
   <url>
-    <loc>https://semanticclimate.netlify.app/p/events/cambridge-mphil-lecture-2022/</loc>
+    <loc>https://semanticclimate.netlify.app/p/</loc>
+    <lastmod>2022-10-16</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://semanticclimate.netlify.app/p/en/events/cambridge-mphil-lecture-2022/</loc>
     <lastmod>2022-10-19</lastmod>
   </url>
   
   <url>
-    <loc>https://semanticclimate.netlify.app/p/events/tdwg-2022/</loc>
+    <loc>https://semanticclimate.netlify.app/p/en/events/tdwg-2022/</loc>
     <lastmod>2022-10-20</lastmod>
   </url>
   
   <url>
-    <loc>https://semanticclimate.netlify.app/p/events/oa-week-2022/</loc>
+    <loc>https://semanticclimate.netlify.app/p/en/events/oa-week-2022/</loc>
     <lastmod>2022-10-24</lastmod>
   </url>
 </urlset>
