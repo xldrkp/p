@@ -32,7 +32,17 @@
   </url>
   
   <url>
+    <loc>https://semanticclimate.netlify.app/p/en/about/</loc>
+    <lastmod>2022-10-16</lastmod>
+  </url>
+  
+  <url>
     <loc>https://semanticclimate.netlify.app/p/en/events/</loc>
+    <lastmod>2022-10-16</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://semanticclimate.netlify.app/p/en/faq/</loc>
     <lastmod>2022-10-16</lastmod>
   </url>
   
@@ -42,22 +52,7 @@
   </url>
   
   <url>
-    <loc>https://semanticclimate.netlify.app/p/en/pages/about/</loc>
-    <lastmod>2022-10-16</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://semanticclimate.netlify.app/p/en/pages/faq/</loc>
-    <lastmod>2022-10-16</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://semanticclimate.netlify.app/p/en/pages/programme/</loc>
-    <lastmod>2022-10-16</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://semanticclimate.netlify.app/p/en/pages/team/</loc>
+    <loc>https://semanticclimate.netlify.app/p/en/programme/</loc>
     <lastmod>2022-10-16</lastmod>
   </url>
   
@@ -88,6 +83,11 @@
   
   <url>
     <loc>https://semanticclimate.netlify.app/p/tags/</loc>
+    <lastmod>2022-10-16</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://semanticclimate.netlify.app/p/en/team/</loc>
     <lastmod>2022-10-16</lastmod>
   </url>
   
