@@ -1,0 +1,135 @@
+.hero {
+  margin: 0;
+  background: #a3c4f5;
+  padding: 10px 0;
+}
+
+body.dark a,
+.hero h1,
+.hero p {
+  color: #7ecf37;
+}
+
+p,
+ul {
+  font-size: 1.0rem;
+}
+
+/* Homepage */
+
+#whatis {
+  margin: 40px 0;
+  background: #a3c4f530;
+  padding: 10px 10px;
+  border-radius: 5px;
+  border: 1px solid #4d8ef0;
+}
+
+#whatis h2 {
+  color: #4d8ef0;
+}
+
+/* Events  */
+
+.section-title.events a {
+  font-size: 1rem;
+}
+
+.event {
+  margin: 20px 0 15px;
+  border: 1px solid rgb(186, 186, 186);
+  border-radius: 6px;
+  background: #dddddd4f;
+  padding: 10px;
+}
+
+p time {
+  font-weight: bold;
+}
+
+a {
+  color: #61873f;
+}
+
+h1 {
+  font-size: 3rem;
+  color: #e97b21;
+}
+
+h2 {
+  font-size: 2.3rem;
+  color: #61873f;
+}
+
+h3 {
+  font-size: 2rem;
+  color: #61873f;
+}
+
+h2.section-title {
+  font-size: 2.3rem;
+  color: #e97b21;
+  font-weight: normal;
+}
+
+/* Buttons */
+
+.button-wrap {
+  margin-top: 25px;
+}
+
+.action {
+  border-radius: 4px;
+  padding: 5px 8px;
+  background: #4d8ef0;
+  color: #fff;
+}
+
+.action.register {
+  background: #61873f;
+}
+
+.action.learn {
+  background: #e97b21;
+}
+
+.card__tags {
+  margin: 20px 0 0 0;
+}
+
+.card__tags a {
+  background: #e97b21;
+  color: #fff;
+  padding: 3px 5px;
+  border-radius: 3px;
+  line-height: 2rem;
+}
+/* Responsiveness */
+@media screen and (max-width: 520px) {
+  .hero h1 {
+    font-size: 2.2rem;
+  }
+
+  h1  {
+    font-size: 2rem;
+    line-height: 2.6rem;
+  }
+
+  h2 {
+    font-size: 1.6rem;
+  }
+
+  h2.section-title {
+    font-size: 2rem;
+    line-height: 2.rem;
+  }
+
+  #whatis h2 {
+    font-size: 1.4rem;
+  }
+
+  .event h3 {
+    font-size: 1.4rem;
+    line-height: 2rem;
+  }
+}
