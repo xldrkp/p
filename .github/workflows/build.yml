@@ -8,8 +8,7 @@ on:
 jobs:
   deployment:
     runs-on: ubuntu-20.04
-    environment: 
-      name: github-pages
+    environment: github-pages
 
     strategy:
       matrix:
