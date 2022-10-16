@@ -8,9 +8,6 @@ on:
 jobs:
   deployment:
     runs-on: ubuntu-20.04
-    environment: 
-      name: staging
-      url: https://staging.xldrkp.github.io
 
     strategy:
       matrix:
